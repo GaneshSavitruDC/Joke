@@ -1,0 +1,58 @@
+/*------------------------------------------Tags--------------------------------------------*/
+body{
+    background-color: #FDFAF6;
+    color: black;
+    text-align: center;
+    font-family: Sniglet , cursive;
+}
+
+h3{
+    text-align: left;
+}
+/*-------------------------------------------Classes-------------------------------------------*/
+
+.CFLC{
+    background-color: #a09aa7;
+    position: relative;
+    margin:10px;
+    padding: 10px;
+}
+.Linkcards{
+    color: white;
+    display: inline-block;
+    width: 400px;
+    height: 100px;
+    margin-top: 4px;
+}
+.Text{
+    text-align: left;
+    display: block;
+}
+/*-----------------------------------------------Id---------------------------------------*/
+#LC1{
+    background-color: #4B5D67;
+}
+#LC2{
+    background-color: #5C3D2E;
+}
+#LC3{
+    background-color: #171010;
+}
+#LC4{
+    background-color: #150E56;
+}
+#LC5{
+    background-color: #351F39;
+}
+#LC6{
+    background-color: #2C061F;
+}
+#LC7{
+    background-color: #39311D;
+}
+#LC8{
+    background-color: #1D2D50;
+}
+#LC9{
+    background-color: black;
+}
