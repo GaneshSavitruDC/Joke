@@ -9,6 +9,16 @@ body{
 h3{
     text-align: left;
 }
+hr{
+    width: 5%;
+    border: none;
+    border-top: dashed;
+    border-color: cornflowerblue;
+    margin: 150px auto 150px ;
+}
+img{
+    margin: 50px;
+}
 /*-------------------------------------------Classes-------------------------------------------*/
 
 .CFLC{
@@ -23,6 +33,10 @@ h3{
     width: 400px;
     height: 100px;
     margin-top: 4px;
+}
+.Linkcards:hover{
+   color: #FFC107;
+   
 }
 .Text{
     text-align: left;
